@@ -2,7 +2,7 @@
 
 ### 安装
 
-    yarn install
+    yarn
 
 ### 运行开发
 
